@@ -5,7 +5,7 @@
 The **ESP8266** is a low-cost Wi-Fi microchip with full TCP/IP stack and microcontroller capability. It is widely used in **IoT projects**, **smart devices**, and **wireless automation**.  
 
 ### 📍 Pinout Diagram (NodeMCU ESP8266 Example)  
-<img width="238" height="141" alt="image" src="https://github.com/user-attachments/assets/115e7ede-e98c-4477-8f01-00f78a711692" />
+<img width="1238" height="1141" alt="image" src="https://github.com/user-attachments/assets/115e7ede-e98c-4477-8f01-00f78a711692" />
 
 
 | Pin Name | GPIO No. | Function | Notes |
@@ -34,6 +34,20 @@ The **ESP8266** is a low-cost Wi-Fi microchip with full TCP/IP stack and microco
 - **Boot Restrictions**: GPIO0, GPIO2, and GPIO15 affect boot mode (must be pulled high/low accordingly).  
 - **Analog Pin**: Only **1 analog input (A0)** with a 10-bit resolution (0–1023).  
 - **Flash & Reset**: Some pins are reserved internally, so not all GPIOs are free for general use.
+
+
+## 📱 Blynk Software  
+
+**Blynk** is a platform that allows you to **control hardware remotely**, display sensor data, and create IoT applications using a **smartphone app** and the **Blynk cloud/server**.  
+
+It is especially popular for projects with **ESP8266, ESP32, Arduino, and Raspberry Pi**.  
+
+### 🔑 Features  
+- 📲 **Mobile App (iOS/Android)** – Drag-and-drop interface to design dashboards (buttons, sliders, graphs, etc.).  
+- ☁️ **Blynk Cloud** – Free cloud service to connect your devices without building your own server.  
+- 🖥 **Blynk Console (Web Dashboard)** – Monitor & control devices from your computer browser.  
+- 🔌 **Supports Multiple Boards** – Arduino, ESP8266, ESP32, Raspberry Pi, etc.  
+- 🔔 **Notifications & Automations** – Send alerts, trigger events, and schedule tasks.  
 
 
 <img width="1407" height="766" alt="image" src="https://github.com/user-attachments/assets/87f43e9d-5c90-41b6-a2a3-1458b56c3710" />
