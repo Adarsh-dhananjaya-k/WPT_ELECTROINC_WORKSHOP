@@ -59,7 +59,11 @@ This workshop includes **hands-on IoT projects** using ESP8266, sensors, and Bly
 
 ### 1. 🚗 IoT-Based Smart Car Parking System  
 - Uses IR sensors and a **Blynk dashboard** to detect and display parking slot availability.  
-- **Code**: [IoT_Car_Parking_System.ino](https://github.com/Adarsh-dhananjaya-k/WPT_ELECTROINC_WORKSHOP/blob/main/IoT_Car_Parking_System.ino)  
+- **Code**: [IoT_Car_Parking_System.ino](https://github.com/Adarsh-dhananjaya-k/WPT_ELECTROINC_WORKSHOP/blob/main/IoT_Car_Parking_System.ino)
+
+<img width="1279" height="443" alt="image" src="https://github.com/user-attachments/assets/59c83254-a39b-4462-b812-0f50e976f78d" />
+<img width="1248" height="601" alt="image" src="https://github.com/user-attachments/assets/f8d708f0-21ae-4903-98d7-0f0b6476ceba" />
+
 
 ### 2. 🌱 Smart Irrigation System  
 - Automates irrigation using a soil moisture sensor + relay.  
